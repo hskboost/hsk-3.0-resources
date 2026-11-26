@@ -1,0 +1,176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HSKBoost//Exam Dates//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:HSK exam dates 2026–2027
+BEGIN:VEVENT
+UID:hsk-2026-01-31@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:HSK pilot session
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2026-09-20@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:HSK pilot session
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2026-11-22@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Internet-based at a test center. Confirm local availability wit
+ h your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2026-12-13@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:HSK launch session
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-01-09@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-03-14@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-04-10@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-05-16@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-05-23@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Internet-based at a test center. Confirm local availability wit
+ h your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-06-26@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-07-18@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-08-21@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-09-12@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-10-16@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-11-07@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-11-20@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Internet-based at a test center. Confirm local availability wit
+ h your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:hsk-2027-12-11@hskboost.com
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:HSK scheduled exam
+DESCRIPTION:Paper-based / Internet-based at a test center. Confirm local av
+ ailability with your test center.
+URL:https://hskboost.com/en/calendar/
+END:VEVENT
+END:VCALENDAR
